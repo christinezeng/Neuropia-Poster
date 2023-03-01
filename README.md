@@ -15,5 +15,5 @@ While there is much research on how neurons and neural networks communicate, an 
 
 
 ## Poster
-[Neuropia Poster presented at UROP22](https://github.com/christinezeng/Neuropia-Poster/blob/bf88773dcc68835a819b0fe19768e49a04d417f0/Neuropia%20UROP%20poster%20FINAL.pdf)
+[Neuropia Poster presented at University of Michigan UROP22](https://github.com/christinezeng/Neuropia-Poster/blob/bf88773dcc68835a819b0fe19768e49a04d417f0/Neuropia%20UROP%20poster%20FINAL.pdf)
 
