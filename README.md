@@ -1,4 +1,4 @@
-# Neuropia-Poster
+# Neuropia - an Educational Neuron Simulation Platform
 
 ######
 Video Demo:
