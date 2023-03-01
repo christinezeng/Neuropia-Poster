@@ -8,5 +8,12 @@ While there is much research on how neurons and neural networks communicate, an 
 
 
 ######
-## Video Demo
-https://drive.google.com/file/d/13TwtLjkUIssmTkqfOLp4MuH7HRs0y9n6/view?usp=sharing
+## Demo Video
+[Neuropia Platform Walkthrough](https://drive.google.com/file/d/13TwtLjkUIssmTkqfOLp4MuH7HRs0y9n6/view?usp=sharing)
+######
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/91641695/222042481-3d3bc3f8-29b6-4a62-8e8a-d9945971b1c3.png">
+
+
+## Poster
+[Neuropia Poster presented at UROP22](https://github.com/christinezeng/Neuropia-Poster/blob/bf88773dcc68835a819b0fe19768e49a04d417f0/Neuropia%20UROP%20poster%20FINAL.pdf)
+
