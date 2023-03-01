@@ -1,4 +1,4 @@
-# Neuropia - an Educational Neuron Simulation Platform
+# Neuropia - a Neuroscience Educational Simulation Platform
 
 ## Abstract
 While there is much research on how neurons and neural networks communicate, an effective neuroscience tool to simulate this communication does not yet exist. Neuropia, the educational software Omar Lab is developing using JavaScript, Python, HTML, CSS, and Neuron, strives to solve this issue, creating accessible neuron interaction simulations for University of Michigan’s Neuroscience and Psychology students and those interested in learning Neuroscience. Implementation and improvements for Neuropia include:
